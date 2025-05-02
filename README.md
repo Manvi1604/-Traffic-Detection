@@ -19,7 +19,8 @@ Traffic Detection is done by implementing the [YoloV3 model](https://pjreddie.co
 ![Sample Output](Output/test_output.jpg)
 # Requirements
 Requirements can be installed by running the following commands:
-'''bash
+
+```bash
 pip install numpy
 pip install matplotlib
 pip install tensorflow
