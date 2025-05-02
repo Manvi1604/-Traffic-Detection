@@ -1,6 +1,7 @@
 # -Traffic-Detection
 # Working
-Traffic Detection is done by implementing the YoloV3 model pretrained on the coco dataset where required files can be downloaded from -
+Traffic Detection is done by implementing the [YoloV3 model](https://pjreddie.com/yolo/)
+ model pretrained on the [coco dataset](https://cocodataset.org/#home) where required files can be downloaded from -
 1. weights file to be placed as data\yolov3.weights
 2. configuration file to be placed as data\yolov3.cfg.txt (already placed)
 3. coco.names.txt file has been provided in the data folder
